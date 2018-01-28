@@ -7,7 +7,7 @@ end
 function test(x)
   return 0
 end
-# I add more thisng
+#and more things
 
 x = linspace(0, 100, 60)
 
